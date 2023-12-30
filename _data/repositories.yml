@@ -1,11 +1,11 @@
 github_users:
   - torvalds
-  - alshedivat
+  - mahabir10
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
+  - mahabir10/cabHailing
+  - mahabir10/babylon_project
+  - mahabir10/pyang
   - jquery/jquery
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
